@@ -1,1 +1,2 @@
 TEXTE
+Un autre texte ajouté sur Git
